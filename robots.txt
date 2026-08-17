@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-wx48rd.salamduit.online/sitemap.xml
